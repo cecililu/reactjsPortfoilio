@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cecililu/reactjsPortfoilio/static/css/main.9c111ab3.css",
+    "main.js": "/cecililu/reactjsPortfoilio/static/js/main.ced1142f.js",
+    "static/js/787.633816a4.chunk.js": "/cecililu/reactjsPortfoilio/static/js/787.633816a4.chunk.js",
+    "static/media/cecil.jpg": "/cecililu/reactjsPortfoilio/static/media/cecil.baaca1ecc017398ec8a1.jpg",
+    "index.html": "/cecililu/reactjsPortfoilio/index.html",
+    "main.9c111ab3.css.map": "/cecililu/reactjsPortfoilio/static/css/main.9c111ab3.css.map",
+    "main.ced1142f.js.map": "/cecililu/reactjsPortfoilio/static/js/main.ced1142f.js.map",
+    "787.633816a4.chunk.js.map": "/cecililu/reactjsPortfoilio/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c111ab3.css",
+    "static/js/main.ced1142f.js"
+  ]
+}
