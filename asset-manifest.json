@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactjsPortfoilio/static/css/main.9c111ab3.css",
-    "main.js": "/reactjsPortfoilio/static/js/main.288d090f.js",
+    "main.css": "/reactjsPortfoilio/static/css/main.309829ad.css",
+    "main.js": "/reactjsPortfoilio/static/js/main.bdd77557.js",
     "static/js/787.633816a4.chunk.js": "/reactjsPortfoilio/static/js/787.633816a4.chunk.js",
     "static/media/cecil.jpg": "/reactjsPortfoilio/static/media/cecil.baaca1ecc017398ec8a1.jpg",
     "index.html": "/reactjsPortfoilio/index.html",
-    "main.9c111ab3.css.map": "/reactjsPortfoilio/static/css/main.9c111ab3.css.map",
-    "main.288d090f.js.map": "/reactjsPortfoilio/static/js/main.288d090f.js.map",
+    "main.309829ad.css.map": "/reactjsPortfoilio/static/css/main.309829ad.css.map",
+    "main.bdd77557.js.map": "/reactjsPortfoilio/static/js/main.bdd77557.js.map",
     "787.633816a4.chunk.js.map": "/reactjsPortfoilio/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c111ab3.css",
-    "static/js/main.288d090f.js"
+    "static/css/main.309829ad.css",
+    "static/js/main.bdd77557.js"
   ]
 }
