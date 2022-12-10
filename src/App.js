@@ -11,7 +11,7 @@ function App() {
          <Intro/>
         </div>
         <NavBar/>
-        <div class="flex justify-center sm:mx:2 md:mx-20">
+        <div class="flex justify-center sm:mx:2 md:mx-20 mt-2">
           <div class="block p-6 border mt-1 shadow-lg bg-white sm:w-3/4 md:w-2/4 ">
             <h5 class="text-gray-900 text-2xl leading-tight font-medium flex justify-start mb-3">Basic Information</h5>
             <div class="grid grid-cols-2 gap-4  ">
