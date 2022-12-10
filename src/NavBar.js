@@ -3,9 +3,9 @@ import React from 'react'
 export const NavBar = () => {
   return (
     <div>
-        <ul class="flex flex-wrap justify-end gap-2 mt-1">
+        <ul class="flex flex-wrap justify-center gap-2 ">
         <li>
-                    <a href="https://www.linkedin.com/"
+                    <a href="https://www.linkedin.com/in/cecil-ghimire-407500201/"
                         class="bg-blue-600 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded"
                         >
                         <svg class="w-5 h-5 fill-current" role="img" viewBox="0 0 256 256"
@@ -22,7 +22,7 @@ export const NavBar = () => {
 
         
                 <li>
-                    <a href="https://github.com/"
+                    <a href="https://github.com/cecililu"
                         class="bg-gray-700 p-2 font-medium text-white inline-flex items-center space-x-2 rounded"
                         >
                         <svg xmlns="http://www.w3.org/2000/svg"
